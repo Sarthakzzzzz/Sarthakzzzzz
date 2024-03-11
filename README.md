@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sarthak Pujari
+# Hi there! 👋 I'm @Sarthakzzzzz
 
 Welcome to my GitHub profile! I'm a passionate software developer and technology enthusiast. Let me give you a glimpse into my professional journey:
 
