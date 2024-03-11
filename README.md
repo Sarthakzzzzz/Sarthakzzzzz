@@ -21,6 +21,6 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 ## 📫 Get in Touch
 
 - [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sarthak_v_v__)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sarthakzzzzz_/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-pujari-922a7a264/)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23581289/sarthak-pujari) 
-- Email: ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a href="mailto:sarthakpujari1970@gmail.com" target="_blank">
+- Email: <a href="mailto:sarthakpujari1970@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="twitter"></a>
 
 Feel free to connect with me on LinkedIn or shoot me an email if you'd like to collaborate on projects or just have a chat about technology! 😊
