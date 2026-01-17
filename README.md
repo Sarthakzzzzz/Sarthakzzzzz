@@ -41,10 +41,7 @@ I specialize in **Backend Architecture**, **Data Structures & Algorithms**, and 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarthakzzzzz&show_icons=true&theme=tokyonight&hide_border=true" alt="Sarthak's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakzzzzz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sarthakzzzzz)](https://git.io/streak-stats)
 
 ## 🏆 Achievements
 - **Codeforces**: Pupil (Max Rating: 1391)
